@@ -1,4 +1,5 @@
 # 評価用のリポジトリです
+8/20 回帰二種（単回帰、重回帰）を追加しました。 
 - [1-1.単回帰](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single_regression.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single_regression.ipynb)
 
