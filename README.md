@@ -1,11 +1,28 @@
 # 評価用のリポジトリです
-8/20 回帰二種（単回帰、重回帰）を追加しました。 
+ 
 - [1-1.単回帰](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single_regression.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single_regression.ipynb)
 
 - [1-2.重回帰](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multiple_regression.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multiple_regression.ipynb)
 
+- [2-1.線形2値分類](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/binary_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/binary_classification.ipynb)
+
+- [2-2.線形多クラス分類](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
+
+- [2-3.サポートベクタマシン](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/support_vector.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/support_vector.ipynb)
+
+- [3-1.非階層的クラスタリング](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/non-hierarchical_cluster_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/non-hierarchical_cluster_analysis.ipynb)
+
+- [3-2.階層的クラスタリング](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/hierarchical_cluster_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/hierarchical_cluster_analysis.ipynb)
+
+- [4.主成分分析](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/principal_companent_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/principal_companent_analysis.ipynb)
 
 始め方 \
 1.googleアカウントへログインしていない場合、下記からログインする。\
